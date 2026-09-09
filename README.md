@@ -1,16 +1,14 @@
 ## Hey there 🤗
-
 I'm Isabel, a dual Media Informatics student @ DHSN & devbite
 I'm passionate about **frontend development** and user-centered design
 
-## Tools & Tech
 
+## Tools & Tech
 - Figma, HTML/CSS, JavaScript
 - Java, Python, Flutter, Rust
 
 
 ## A lil About Me
-
 - 🐱 I have a cat
 - 🧃 Energy drinks are my fuel
 - 💃 I love to dance
