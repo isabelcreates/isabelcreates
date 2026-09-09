@@ -1,5 +1,5 @@
 ## Hey there 🤗
-I'm Isabel, a dual Media Informatics student @ DHSN & devbite
+I'm Isabel, a dual Media Informatics student @ DHSN & devbite  
 I'm passionate about **frontend development** and user-centered design
 
 
