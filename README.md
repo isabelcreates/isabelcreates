@@ -1,4 +1,5 @@
-
+##Hey there!😄
+I'm a media informatics student @ DHSN!
 <!--
 **isabelcreates/isabelcreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
